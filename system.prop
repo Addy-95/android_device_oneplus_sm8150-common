@@ -80,9 +80,6 @@ ro.vendor.product.device.db=OP_DEVICE
 # Perf
 ro.vendor.qti.sys.fw.bg_apps_limit=60
 
-# Priv-app permissions whitelist
-ro.control_privapp_permissions=enforce
-
 # QC framework value-adds
 ro.vendor.qti.va_aosp.support=1
 
